@@ -1,0 +1,11 @@
+{
+    frankenphp {
+        worker ./worker.php
+    }
+}
+
+panel.example.com {
+    root public/
+    encode gzip
+    php_server
+}

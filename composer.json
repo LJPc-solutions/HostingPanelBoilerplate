@@ -1,0 +1,11 @@
+{
+    "name": "ljpc/hosting-panel",
+    "description": "White-label hosting panel boilerplate for LJPc resellers",
+    "type": "project",
+    "license": "proprietary",
+    "require": { "php": ">=8.2" },
+    "autoload": {
+        "psr-4": { "Panel\\": "src/" },
+        "files": ["src/helpers.php"]
+    }
+}

@@ -1,0 +1,5 @@
+/vendor/
+/config.php
+/var/*
+!/var/.gitkeep
+/node_modules/
