@@ -299,4 +299,4 @@ The runner prints one line per check and exits non-zero if anything fails.
 
 ## License
 
-Proprietary. See `composer.json`.
+MIT. See [LICENSE](LICENSE).
